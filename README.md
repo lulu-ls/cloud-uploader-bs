@@ -8,6 +8,7 @@
 ```
   - serve # 后端项目 nodejs + koa2
   -- # 注意：反馈功能和上传日志记录需要 mysql 环境（serve/config/db.js 进行配置），并且将（serve/config/const.js 中的 MYSQL 修改为 true）即可，不需要的可以直接不管
+  -- # 关于 日志和反馈功能的表，请执行根目录下 db.sql 
   - web # 前端项目 vue3
 ```
 ## 环境要求
