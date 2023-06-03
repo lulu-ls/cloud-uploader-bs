@@ -1,0 +1,28 @@
+{
+  "name": "cloud-bs-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.3.5",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.3.2",
+    "pinia": "^2.0.34",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
