@@ -28,3 +28,9 @@ http://127.0.0.1:3000
 npm run serve
 ```
 
+## 本项目参考以下资料
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+## 如果有任何疑问或者建议欢迎 ISSUE/PR，也可以加
+
+QQ 群：853469710
